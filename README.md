@@ -2,7 +2,7 @@
 
 A simple Harry Potter lore app that uses the Harry Potter API to display a list of characters.
 
-_Note: This project was built in just 4 hours, so some compromises were made and a few features are missing._
+_Note: This project was built under time constraint, so some compromises were made and a few features are missing._
 
 ## 🎥 Demo Video
 Check out a quick walkthrough of the app in action:
