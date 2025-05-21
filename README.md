@@ -8,7 +8,8 @@ _Note: This project was built in just 4 hours, so some compromises were made and
 Check out a quick walkthrough of the app in action:
 | Quick Walkthrough |
 |-------------------|
-| <video src="https://github.com/user-attachments/assets/9f14c517-0c29-43b3-8380-fbbc10d0ff91" />  |
+| <video src="https://github.com/user-attachments/assets/31761fe4-4018-4e7d-8940-c82caf7c1bd7" />  |
+
 
 ## 🏁 Getting up and running
 
